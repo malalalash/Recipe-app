@@ -1,6 +1,6 @@
 import { FaChevronRight } from 'react-icons/fa'
 import { FaChevronLeft } from 'react-icons/fa'
-import { categories } from '../data/Categories'
+import { categories } from '../data/categories'
 import { useState } from "react";
 import { useNavigate } from 'react-router-dom';
 
