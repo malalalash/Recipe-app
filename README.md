@@ -6,7 +6,7 @@ Link to live demo: [https://sensational-cupcake-3020bd.netlify.app](https://incr
 - VITE/REACT
 - TAILWINDCSS
 - REACT ROUTER
-- 
+
 # Features:
 - Search for your favorite recipes
 - Different categories
